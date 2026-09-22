@@ -99,7 +99,3 @@ The server will be running at `http://localhost:5000`.
 * **Email:** [mugeyilmaz.web@gmail.com](https://www.google.com/search?q=mailto%3Amugeyilmaz.web%40gmail.com)
 * **LinkedIn:** [linkedin.com/in/muge-yilmaz](https://linkedin.com/in/muge-yilmaz)
 * **GitHub:** [github.com/muge-yilmaz](https://github.com/muge-yilmaz)
-
-Tüm ana repolarımızın dokümantasyonunu tamamladık! Bu aşamayı bitirdiyseniz bir sonraki adımımız olan **LinkedIn Deneyimler (Experience) Bölümü** düzenlemesine geçebiliriz.
-
-```
