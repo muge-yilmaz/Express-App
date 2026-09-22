@@ -6,17 +6,6 @@ A robust, scalable, and modular backend service built with Node.js and Express.j
 
 ---
 
-## 🖼️ Overview & API Structure
-
-<!-- 
-Buraya Postman/Insomnia API testlerinden veya terminal/log çıktılarından 1-2 ekran görüntüsü ekleyebilirsiniz.
--->
-| Endpoint Testing (Postman) | Server Logs & Middleware |
-| :---: | :---: |
-| *(Add your screenshot here)* | *(Add your screenshot here)* |
-
----
-
 ## 🚀 Key Features
 
 ### 🛠️ Core Backend Architecture
